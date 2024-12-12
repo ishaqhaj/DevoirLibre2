@@ -1,0 +1,7 @@
+[
+    {"id":12,"date":1734021395689,"amount":1200.0,"costmerId":34},
+    {"id":13,"date":1734021395690,"amount":1500.0,"costmerId":35},
+    {"id":14,"date":1734021395691,"amount":2000.0,"costmerId":36},
+    {"id":15,"date":1734021395691,"amount":2000.0,"costmerId"/:37}
+
+]
